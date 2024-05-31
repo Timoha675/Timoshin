@@ -1,5 +1,5 @@
 echo off
 
-del Savilov /S/Q/F
+del Timoshin /S/Q/F
 
 pause
