@@ -1,10 +1,10 @@
 echo off
-md Savilov
+md Timoshin
 
-cd Savilov
-md Igor
+cd Timoshin
+md Ivan
 
-cd Igor
-md Olegovich
+cd Ivan
+md Sergeevich 
 
 pause
